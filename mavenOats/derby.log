@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Nov 04 09:29:18 IST 2014:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.9.1.0 - (1344872): instance a816c00e-0149-78f4-ed89-0000001ccf10 
+on database directory C:\OracleATS\OFT\mavenOats\src\test\NewDemo\results\Session6\data  with class loader org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader@14e0e90 
+Loaded from file:/C:/OracleATS/openScript/plugins/oracle.oats.jagent.lib3rdparty_2.10.1.129/lib/derby.jar
+java.vendor=Sun Microsystems Inc.
+java.runtime.version=1.6.0_07-b06
+user.dir=C:\OracleATS\OFT\mavenOats
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Nov 04 09:29:23 IST 2014:
+Shutting down instance a816c00e-0149-78f4-ed89-0000001ccf10 on database directory C:\OracleATS\OFT\mavenOats\src\test\NewDemo\results\Session6\data with class loader org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader@14e0e90 
